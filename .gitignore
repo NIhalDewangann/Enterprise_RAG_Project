@@ -1,0 +1,18 @@
+# Python Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+
+# Local uploads and data folders
+uploads/
+faiss_index/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
